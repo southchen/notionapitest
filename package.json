@@ -1,0 +1,15 @@
+{
+  "name": "notion-booklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "nan chen",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.4.9",
+    "dotenv": "^10.0.0"
+  }
+}
